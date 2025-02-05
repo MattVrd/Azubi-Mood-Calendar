@@ -8,6 +8,9 @@ I have not included any personal data for obvious reasons.
 
 Here are some screenshots of the Page which should make the Functionality pretty obvious even for not native German speakes.
 
-![Main page]()
+![Main page](Screenshot_1.png)
+
+![Overwrite Page](Screenshot_2.png)
+
 
 Any comments or code critiques, as well as improvement tips, are very welcome, as I am a beginner developer trying to learn.
